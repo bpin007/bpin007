@@ -19,7 +19,7 @@ I'm Bipin. A Web Developer from Bangalore, India.
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ibuli/count.svg" />
+  <img src="https://profile-counter.glitch.me/bipin007/count.svg" />
 </p>
 <p align="center">
   <b>Thanks For Visiting ❤️</b>
