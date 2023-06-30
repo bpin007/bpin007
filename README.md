@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**bpin007/bpin007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <br><br>
+  <samp>
+I'm Bipin. A Web Developer from Bangalore, India. 
+     <br><br>Contact me on <a href="mailto:bipingwda7.com">Send an Email</a>
+  </samp>
+</p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on JavaScript and ReactJS mostly.
+- 🌱 I’m currently learning Node JS.
+- 🤔 I’m looking for help with NodeJS.
+- 💬 Ask me about anything related to technology, books, latest web series and offbeat film choices.
+- 📫 How to reach me: Read above :P
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: Sometimes I think out loud and type straight to someone and they always think I'm drunk (I don't drink, LOL!). :D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ibuli/count.svg" />
+</p>
+<p align="center">
+  <b>Thanks For Visiting ❤️</b>
+</p>
