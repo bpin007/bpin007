@@ -6,7 +6,7 @@
   <samp>
 I'm Bipin. A Web Developer from Bangalore, India. 
      <br><br>Contact me on <a href="mailto:bipingwda7.com">Send an Email</a>
-     <br><br>Contact me on <a href="https://itsmebipin.netlify.app/">Please check this............</a>
+     <br><br>Contact me on <a href="https://developerbipin.netlify.app/">Please check this............</a>
   </samp>
 </p>
 
